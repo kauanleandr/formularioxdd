@@ -1,5 +1,5 @@
 body {
-    min-height: 100vh;
+    min-height: 95vh;
     background: #81259d;
     font-family: sans-serif;
     display: grid;
@@ -20,9 +20,9 @@ form {
     width: 100%;
     max-width: 28rem;
     background: #fff;
-    padding: 4rem;
+    padding: 0.9rem;
     border-radius: 0.5rem;
-    box-shadow: 0 0 0 1.8rem rgba(0, 0, 0, 0.15);
+    /* box-shadow: 0 0 0 1.8rem rgba(0, 0, 0, 0.15); */
 }
 
 label {
